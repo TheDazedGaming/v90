@@ -1,0 +1,7 @@
+Error saving Meliodas Level: 88 Job: 121
+java.lang.NullPointerException
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:7799)
+	at client.MapleCharacter$20.run(MapleCharacter.java:7458)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------

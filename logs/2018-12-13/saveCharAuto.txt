@@ -1,0 +1,32 @@
+Attempting to autosave Moon at Thu Dec 13 19:24:14 PST 2018
+---------------------------------
+Attempting to autosave Primal at Thu Dec 13 19:24:15 PST 2018
+---------------------------------
+Attempting to autosave Diagnostic at Thu Dec 13 19:24:15 PST 2018
+---------------------------------
+Attempting to autosave Dibs at Thu Dec 13 19:24:15 PST 2018
+---------------------------------
+Attempting to autosave SharpEyes at Thu Dec 13 19:24:16 PST 2018
+---------------------------------
+Attempting to autosave Moon at Thu Dec 13 20:25:05 PST 2018
+---------------------------------
+Attempting to autosave Primal at Thu Dec 13 20:25:06 PST 2018
+---------------------------------
+Attempting to autosave Diagnostic at Thu Dec 13 20:25:06 PST 2018
+---------------------------------
+Attempting to autosave Dibs at Thu Dec 13 20:25:07 PST 2018
+---------------------------------
+Attempting to autosave SharpEyes at Thu Dec 13 20:25:08 PST 2018
+---------------------------------
+Attempting to autosave Moon at Thu Dec 13 21:18:40 PST 2018
+---------------------------------
+Attempting to autosave Diagnostic at Thu Dec 13 21:18:40 PST 2018
+---------------------------------
+Attempting to autosave Moon at Thu Dec 13 22:19:26 PST 2018
+---------------------------------
+Attempting to autosave Fatal at Thu Dec 13 22:19:27 PST 2018
+---------------------------------
+Attempting to autosave Fatal at Thu Dec 13 23:20:29 PST 2018
+---------------------------------
+Attempting to autosave Fatal at Fri Dec 14 00:20:31 PST 2018
+---------------------------------

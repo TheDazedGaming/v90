@@ -1,0 +1,16 @@
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Horntail Necklace(1122000) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Moon AND Primal
+0 mesos from Moon to Primal 
+0 mesos from Primal to Moon 
+1 [Skill Book] Triple Throw(2280010) from Primal to Moon 
+
+
+
+---------------------------------

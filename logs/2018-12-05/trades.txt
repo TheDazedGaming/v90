@@ -1,0 +1,585 @@
+TRADE BETWEEN Diagnostic AND Maxjutsu
+0 mesos from Diagnostic to Maxjutsu 
+0 mesos from Maxjutsu to Diagnostic 
+1 Flamekeeper Cordon (1082246) from Maxjutsu to Diagnostic 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Dusk AND Diagnostic
+0 mesos from Dusk to Diagnostic 
+0 mesos from Diagnostic to Dusk 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Dusk 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Tasso AND Ross
+1995476 mesos from Tasso to Ross 
+0 mesos from Ross to Tasso 
+
+
+
+---------------------------------
+TRADE BETWEEN Tasso AND Moonreaver
+200000 mesos from Tasso to Moonreaver 
+0 mesos from Moonreaver to Tasso 
+
+
+
+---------------------------------
+TRADE BETWEEN Ross AND Ruka
+0 mesos from Ross to Ruka 
+4999999 mesos from Ruka to Ross 
+1 Black Hole(1472062) from Ruka to Ross 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Sunreaver
+0 mesos from Dawn to Sunreaver 
+0 mesos from Sunreaver to Dawn 
+9 Dark Crystal Ore(4004004) from Sunreaver to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Fatal
+0 mesos from Dawn to Fatal 
+1 Ragged Black Cape(1102082) from Dawn to Fatal 
+0 mesos from Fatal to Dawn 
+1 [Skill Book] Angel Ray(2280009) from Fatal to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+100 Eye of Fire(4001017) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+900000000 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+999999999 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+100 The Summoning Rock(4006001) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Ruka AND Jinsune
+0 mesos from Ruka to Jinsune 
+0 mesos from Jinsune to Ruka 
+5 Zombie's Lost Gold Tooth(4000082) from Jinsune to Ruka 
+5 Soft Feather(4003005) from Jinsune to Ruka 
+2 Scroll for Earring for DEX 60%(2040317) from Jinsune to Ruka 
+1 Scroll for Shoes for DEX(2040700) from Jinsune to Ruka 
+1 Scroll for Helmet for DEX 60%(2040029) from Jinsune to Ruka 
+1 Scroll for Bottomwear for DEX(2040614) from Jinsune to Ruka 
+1 Scroll for Shield for STR 60%(2040931) from Jinsune to Ruka 
+1 Scroll for Cape for DEX(2041018) from Jinsune to Ruka 
+1 Sparta(1302056) from Jinsune to Ruka 
+
+
+
+---------------------------------
+TRADE BETWEEN Cheetoh AND Jinta
+0 mesos from Cheetoh to Jinta 
+10 Dark Crystal Ore(4004004) from Cheetoh to Jinta 
+1 Blood Nightfox(1002285) from Cheetoh to Jinta 
+1 Steal Pow(1082093) from Cheetoh to Jinta 
+1 Brown China(1040096) from Cheetoh to Jinta 
+1 Casters(1472033) from Cheetoh to Jinta 
+1 Casters(1472033) from Cheetoh to Jinta 
+0 mesos from Jinta to Cheetoh 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Targar Hat(LUK)(1003024) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Star AND Dawn
+0 mesos from Star to Dawn 
+0 mesos from Dawn to Star 
+1 Ragged Black Cape(1102082) from Dawn to Star 
+
+
+
+---------------------------------
+TRADE BETWEEN Tasso AND Dawn
+99999999 mesos from Tasso to Dawn 
+0 mesos from Dawn to Tasso 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 [Mastery Book] Frostprey(2290072) from Dibs to SharpEyes 
+1 [Mastery Book] Frostprey(2290072) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 [Mastery Book] Frostprey(2290073) from Dibs to SharpEyes 
+1 [Mastery Book] Frostprey(2290073) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Diagnostic AND Dawn
+0 mesos from Diagnostic to Dawn 
+0 mesos from Dawn to Diagnostic 
+1 Red Christmas Sock(1072427) from Dawn to Diagnostic 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+1999999999 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+4 Chaos Scroll 60%(2049100) from Diagnostic to Dawn 
+1 Red Christmas Sock(1072427) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Cheetoh AND Dawn
+0 mesos from Cheetoh to Dawn 
+0 mesos from Dawn to Cheetoh 
+1 Brown Work Gloves(1082149) from Dawn to Cheetoh 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Dark Battle Road(1050083) from Diagnostic to Dawn 
+1 Dark Battle Road(1050083) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+1799999999 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Sunreaver AND Dawn
+99999999 mesos from Sunreaver to Dawn 
+1 Dark Neli Shoes(1072209) from Sunreaver to Dawn 
+0 mesos from Dawn to Sunreaver 
+1 Dark Neli Shoes(1072209) from Dawn to Sunreaver 
+1 Yellow Work Gloves(1082145) from Dawn to Sunreaver 
+1 Green Christmas Sock(1072428) from Dawn to Sunreaver 
+1 Purple Old Wisconsin(1002586) from Dawn to Sunreaver 
+1 Flamekeeper Cordon (1082246) from Dawn to Sunreaver 
+1 Flamekeeper Cordon (1082246) from Dawn to Sunreaver 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Dawn
+0 mesos from Primal to Dawn 
+0 mesos from Dawn to Primal 
+1 Red Christmas Sock(1072427) from Dawn to Primal 
+1 Red Christmas Sock(1072427) from Dawn to Primal 
+1 Single Earring(1032001) from Dawn to Primal 
+1 Red Christmas Sock(1072427) from Dawn to Primal 
+1 Brown Work Gloves(1082149) from Dawn to Primal 
+1 Brown Work Gloves(1082149) from Dawn to Primal 
+1 Dark Battle Road(1050083) from Dawn to Primal 
+1 Strawberry Icecream Bar(1012070) from Dawn to Primal 
+1 Green Mittens(1082228) from Dawn to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Dawn
+0 mesos from Primal to Dawn 
+0 mesos from Dawn to Primal 
+1 Spectrum Goggles(1022082) from Dawn to Primal 
+1 Spectrum Goggles(1022082) from Dawn to Primal 
+1 Spectrum Goggles(1022082) from Dawn to Primal 
+1 Super Snowboard(1442046) from Dawn to Primal 
+1 Purple Surfboard(1442057) from Dawn to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Scarlion Hat(DEX)(1003025) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Scarlion Hat(DEX)(1003025) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Free Spirit Piercing(1032075) from Diagnostic to Idol 
+1 The Immortal Pharaoh Belt(1132013) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Witch's Deep Purple Belt(1132016) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 The Immortal Pharaoh Belt(1132013) from Diagnostic to Primal 
+1 Free Spirit Piercing(1032075) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Crocell Gloves(1082260) from Diagnostic to Idol 
+1 Crocell Shoes(1072423) from Diagnostic to Idol 
+1 Amdusias Shoes(1072422) from Diagnostic to Idol 
+1 Amdusias Gloves(1082259) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Idol 
+1 Broken Glasses(1022073) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+0 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+1 Spiegelmann's Ring(1112401) from Diagnostic to Idol 
+1 Spiegelmann's Ring(1112401) from Diagnostic to Idol 
+1 Spiegelmann's Ring(1112401) from Diagnostic to Idol 
+1 Spiegelmann's Ring(1112401) from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Idol AND Diagnostic
+1999999999 mesos from Idol to Diagnostic 
+0 mesos from Diagnostic to Idol 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Andras Gloves(1082256) from Diagnostic to Primal 
+1 Andras Shoes(1072419) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Broken Glasses(1022073) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Eclipse AND Primal
+0 mesos from Eclipse to Primal 
+0 mesos from Primal to Eclipse 
+1 [Skill Book] Triple Throw(2280010) from Primal to Eclipse 
+
+
+
+---------------------------------
+TRADE BETWEEN Sunreaver AND Primal
+0 mesos from Sunreaver to Primal 
+0 mesos from Primal to Sunreaver 
+1 [Skill Book] Angel Ray(2280009) from Primal to Sunreaver 
+1 Zakum Helmet(1002357) from Primal to Sunreaver 
+
+
+
+---------------------------------
+TRADE BETWEEN Eclipse AND Sunreaver
+40000000 mesos from Eclipse to Sunreaver 
+0 mesos from Sunreaver to Eclipse 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 [Mastery Book] Maple Hero 20(2290096) from Dibs to SharpEyes 
+1 [Mastery Book] Maple Hero 20(2290096) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Dibs AND SharpEyes
+0 mesos from Dibs to SharpEyes 
+1 Brown Work Gloves(1082149) from Dibs to SharpEyes 
+0 mesos from SharpEyes to Dibs 
+1 Brown Work Gloves(1082149) from SharpEyes to Dibs 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 [Mastery Book] Snipe(2290074) from Dibs to SharpEyes 
+1 [Mastery Book] Snipe(2290074) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 [Mastery Book] Snipe(2290075) from Dibs to SharpEyes 
+1 [Mastery Book] Snipe(2290075) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+1899999999 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 Dragon Purple Sleve(1472052) from Dibs to SharpEyes 
+1 Black Snowshoes(1072171) from Dibs to SharpEyes 
+1 Bathrobe for Men(1050100) from Dibs to SharpEyes 
+1 Single Earring(1032001) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+99 Onyx Apple(2022179) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Baka AND Primal
+0 mesos from Baka to Primal 
+0 mesos from Primal to Baka 
+1 Zakum Helmet(1002357) from Primal to Baka 
+1 Spectrum Goggles(1022082) from Primal to Baka 
+1 Brown Work Gloves(1082149) from Primal to Baka 
+1 [Skill Book] Advanced Combo Attack(2280007) from Primal to Baka 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1000 Ilbi Throwing-Stars(2070006) from Dibs to SharpEyes 
+100 Naricain's Demon Elixir(2022282) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+1 Dragon Shiner Cross(1462039) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Scarlion Hat(STR)(1003026) from Diagnostic to Dawn 
+1 Broken Glasses(1022073) from Diagnostic to Dawn 
+1 Free Spirit Piercing(1032075) from Diagnostic to Dawn 
+1 Crocell Shoes(1072423) from Diagnostic to Dawn 
+1 Crocell Gloves(1082260) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Dawn AND Diagnostic
+0 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+1 Spiegelmann's Necklace of Chaos(1122058) from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN Sasuke AND Dawn
+299999999 mesos from Sasuke to Dawn 
+0 mesos from Dawn to Sasuke 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Jinsune
+0 mesos from SharpEyes to Jinsune 
+1 Spiegelmann's Necklace of Chaos(1122058) from SharpEyes to Jinsune 
+0 mesos from Jinsune to SharpEyes 
+1 Spiegelmann's Necklace of Chaos(1122058) from Jinsune to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Tasso AND Primal
+0 mesos from Tasso to Primal 
+0 mesos from Primal to Tasso 
+1 Zakum Helmet(1002357) from Primal to Tasso 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+100 Scroll for Helmet for DEX 10%(2040031) from Dibs to SharpEyes 
+100 White Scroll(2340000) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Strawberry Icecream Bar(1012070) from Diagnostic to Primal 
+1 Raccoon Mask(1022058) from Diagnostic to Primal 
+1 White Raccoon Mask(1022060) from Diagnostic to Primal 
+
+
+
+---------------------------------
+TRADE BETWEEN Primal AND Diagnostic
+0 mesos from Primal to Diagnostic 
+0 mesos from Diagnostic to Primal 
+1 Green Mittens(1082228) from Diagnostic to Primal 
+
+
+
+---------------------------------

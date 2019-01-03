@@ -1,0 +1,47 @@
+TRADE BETWEEN Dawn AND Diagnostic
+1999999999 mesos from Dawn to Diagnostic 
+0 mesos from Diagnostic to Dawn 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+100 All Cure Potion(2050004) from Dibs to SharpEyes 
+100 All Cure Potion(2050004) from Dibs to SharpEyes 
+100 All Cure Potion(2050004) from Dibs to SharpEyes 
+100 All Cure Potion(2050004) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Ross AND Cheetoh
+2577752 mesos from Ross to Cheetoh 
+0 mesos from Cheetoh to Ross 
+1 Maple Kandayo(1472032) from Cheetoh to Ross 
+1 Brown China(1040096) from Cheetoh to Ross 
+1 Blood Nightfox(1002285) from Cheetoh to Ross 
+
+
+
+---------------------------------
+TRADE BETWEEN Jinsune AND Ruka
+0 mesos from Jinsune to Ruka 
+1 Ragged Black Cape(1102082) from Jinsune to Ruka 
+1 Spiegelmann's Necklace of Chaos(1122058) from Jinsune to Ruka 
+1 Scroll for Overall for STR 100%(2040530) from Jinsune to Ruka 
+1 Scroll for Shield for STR 60%(2040931) from Jinsune to Ruka 
+1 Scroll for Cape for DEX(2041018) from Jinsune to Ruka 
+1 Scroll for Shoes for DEX(2040700) from Jinsune to Ruka 
+2 Scroll for Earring for DEX 60%(2040317) from Jinsune to Ruka 
+1 Scroll for Helmet for DEX 60%(2040029) from Jinsune to Ruka 
+1 Scroll for Bottomwear for DEX(2040614) from Jinsune to Ruka 
+0 mesos from Ruka to Jinsune 
+1 Blue Bazura(1051102) from Ruka to Jinsune 
+1 Scroll for Eye Accessory for INT(2040207) from Ruka to Jinsune 
+2 Subani's Mystic Cauldron(2022283) from Ruka to Jinsune 
+
+
+
+---------------------------------

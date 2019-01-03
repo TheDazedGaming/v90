@@ -1,0 +1,47 @@
+TRADE BETWEEN Lost AND Moon
+500000 mesos from Lost to Moon 
+1 Piece of Cracked Dimension(4031179) from Lost to Moon 
+0 mesos from Moon to Lost 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Dibs
+0 mesos from SharpEyes to Dibs 
+0 mesos from Dibs to SharpEyes 
+3 Targa's Foot(4001241) from Dibs to SharpEyes 
+3 Scarlion Boss's Foot(4001242) from Dibs to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN SharpEyes AND Ross
+0 mesos from SharpEyes to Ross 
+0 mesos from Ross to SharpEyes 
+1 Strawberry Icecream Bar(1012070) from Ross to SharpEyes 
+1 Circle of Ancient Strength(1112408) from Ross to SharpEyes 
+1 Circle of Ancient Strength(1112408) from Ross to SharpEyes 
+1 Green Mittens(1082228) from Ross to SharpEyes 
+1 Ragged Black Cape(1102082) from Ross to SharpEyes 
+1 Crystal Flower Earrings(1032019) from Ross to SharpEyes 
+1 Frozen Tuna(1442018) from Ross to SharpEyes 
+1 Stonetooth Sword(1402037) from Ross to SharpEyes 
+
+
+
+---------------------------------
+TRADE BETWEEN Meliodas AND SharpEyes
+0 mesos from Meliodas to SharpEyes 
+0 mesos from SharpEyes to Meliodas 
+1 Circle of Ancient Strength(1112408) from SharpEyes to Meliodas 
+1 Circle of Ancient Strength(1112408) from SharpEyes to Meliodas 
+1 Green Mittens(1082228) from SharpEyes to Meliodas 
+1 Ragged Black Cape(1102082) from SharpEyes to Meliodas 
+1 Crystal Flower Earrings(1032019) from SharpEyes to Meliodas 
+1 Frozen Tuna(1442018) from SharpEyes to Meliodas 
+1 Stonetooth Sword(1402037) from SharpEyes to Meliodas 
+1 Strawberry Icecream Bar(1012070) from SharpEyes to Meliodas 
+
+
+
+---------------------------------

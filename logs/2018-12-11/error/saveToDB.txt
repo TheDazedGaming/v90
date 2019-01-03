@@ -1,0 +1,21 @@
+Error saving Diagnostic Level: 255 Job: 910
+java.lang.NullPointerException
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:7834)
+	at client.MapleCharacter$20.run(MapleCharacter.java:7493)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------
+Error saving Moon Level: 135 Job: 412
+java.lang.NullPointerException
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:7834)
+	at client.MapleCharacter$20.run(MapleCharacter.java:7493)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------
+Error saving Primal Level: 225 Job: 112
+java.lang.NullPointerException
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:7834)
+	at client.MapleCharacter$20.run(MapleCharacter.java:7493)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------

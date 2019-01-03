@@ -1,0 +1,7 @@
+Error saving Diagnostic Level: 255 Job: 512
+java.lang.NullPointerException
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:7834)
+	at client.MapleCharacter$20.run(MapleCharacter.java:7493)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------

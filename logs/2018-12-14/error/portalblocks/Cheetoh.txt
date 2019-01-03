@@ -1,0 +1,1 @@
+Player Cheetoh got stuck when changing maps. Timestamp: Sat Dec 15 11:16:06 PST 2018 Last visited mapids: [100000000, 100000002, 600000000]

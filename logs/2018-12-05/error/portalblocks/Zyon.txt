@@ -1,0 +1,1 @@
+Player Zyon got stuck when changing maps. Timestamp: Sat Dec 08 22:02:01 PST 2018 Last visited mapids: [103040201, 103040200]
