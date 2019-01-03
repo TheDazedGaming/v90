@@ -24,7 +24,6 @@ package net;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import net.opcodes.RecvOpcode;
 import net.server.channel.handlers.*;
 import net.server.handlers.CustomPacketHandler;
 import net.server.handlers.KeepAliveHandler;
@@ -37,18 +36,17 @@ import net.server.handlers.login.CharlistRequestHandler;
 import net.server.handlers.login.CheckCharNameHandler;
 import net.server.handlers.login.CreateCharHandler;
 import net.server.handlers.login.DeleteCharHandler;
-import net.server.handlers.login.GuestLoginHandler;
 import net.server.handlers.login.LoginPasswordHandler;
+import net.server.handlers.login.PickCharHandler;
 import net.server.handlers.login.RegisterPicHandler;
 import net.server.handlers.login.RegisterPinHandler;
 import net.server.handlers.login.RelogRequestHandler;
 import net.server.handlers.login.ServerStatusRequestHandler;
 import net.server.handlers.login.ServerlistRequestHandler;
 import net.server.handlers.login.SetGenderHandler;
-import net.server.handlers.login.ViewAllCharHandler;
-import net.server.handlers.login.ViewAllCharRegisterPicHandler;
-import net.server.handlers.login.ViewAllCharSelectedHandler;
 import net.server.handlers.login.ViewAllCharSelectedWithPicHandler;
+import net.server.handlers.login.ViewAllPicRegisterHandler;
+import net.server.handlers.login.ViewCharHandler;
 
 public final class PacketProcessor {
 
@@ -80,7 +78,6 @@ public final class PacketProcessor {
         try {
             handlers[code.getValue()] = handler;
         } catch (ArrayIndexOutOfBoundsException e) {
-            e.printStackTrace();
             System.out.println("Error registering handler - " + code.name());
         }
     }
@@ -98,11 +95,9 @@ public final class PacketProcessor {
 
     public void reset(int channel) {
         handlers = new MaplePacketHandler[handlers.length];
-
+        registerHandler(RecvOpcode.PACKET_ERROR, new ClientErrorHandler());
         registerHandler(RecvOpcode.PONG, new KeepAliveHandler());
-        registerHandler(RecvOpcode.CUSTOM_PACKET, new CustomPacketHandler());
-        if (channel < 0) {
-            //LOGIN HANDLERS
+        if (channel < 0) {//login
             registerHandler(RecvOpcode.ACCEPT_TOS, new AcceptToSHandler());
             registerHandler(RecvOpcode.AFTER_LOGIN, new AfterLoginHandler());
             registerHandler(RecvOpcode.SERVERLIST_REREQUEST, new ServerlistRequestHandler());
@@ -115,20 +110,16 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.CHECK_CHAR_NAME, new CheckCharNameHandler());
             registerHandler(RecvOpcode.CREATE_CHAR, new CreateCharHandler());
             registerHandler(RecvOpcode.DELETE_CHAR, new DeleteCharHandler());
-            registerHandler(RecvOpcode.VIEW_ALL_CHAR, new ViewAllCharHandler());
-            registerHandler(RecvOpcode.PICK_ALL_CHAR, new ViewAllCharSelectedHandler());
+            registerHandler(RecvOpcode.VIEW_ALL_CHAR, new ViewCharHandler());
+            registerHandler(RecvOpcode.PICK_ALL_CHAR, new PickCharHandler());
             registerHandler(RecvOpcode.REGISTER_PIN, new RegisterPinHandler());
-            registerHandler(RecvOpcode.GUEST_LOGIN, new GuestLoginHandler());
             registerHandler(RecvOpcode.REGISTER_PIC, new RegisterPicHandler());
             registerHandler(RecvOpcode.CHAR_SELECT_WITH_PIC, new CharSelectedWithPicHandler());
             registerHandler(RecvOpcode.SET_GENDER, new SetGenderHandler());
             registerHandler(RecvOpcode.VIEW_ALL_WITH_PIC, new ViewAllCharSelectedWithPicHandler());
-            registerHandler(RecvOpcode.VIEW_ALL_PIC_REGISTER, new ViewAllCharRegisterPicHandler());
+            registerHandler(RecvOpcode.VIEW_ALL_PIC_REGISTER, new ViewAllPicRegisterHandler());
         } else {
             //CHANNEL HANDLERS
-            registerHandler(RecvOpcode.NAME_TRANSFER, new TransferNameHandler());
-            registerHandler(RecvOpcode.CHECK_CHAR_NAME, new TransferNameResultHandler());
-            registerHandler(RecvOpcode.WORLD_TRANSFER, new TransferWorldHandler());
             registerHandler(RecvOpcode.CHANGE_CHANNEL, new ChangeChannelHandler());
             registerHandler(RecvOpcode.STRANGE_DATA, LoginRequiringNoOpHandler.getInstance());
             registerHandler(RecvOpcode.GENERAL_CHAT, new GeneralChatHandler());
@@ -137,7 +128,7 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.NPC_TALK_MORE, new NPCMoreTalkHandler());
             registerHandler(RecvOpcode.QUEST_ACTION, new QuestActionHandler());
             registerHandler(RecvOpcode.NPC_SHOP, new NPCShopHandler());
-            registerHandler(RecvOpcode.ITEM_SORT, new InventoryMergeHandler());
+            registerHandler(RecvOpcode.ITEM_SORT, new ItemSortHandler());
             registerHandler(RecvOpcode.ITEM_MOVE, new ItemMoveHandler());
             registerHandler(RecvOpcode.MESO_DROP, new MesoDropHandler());
             registerHandler(RecvOpcode.PLAYER_LOGGEDIN, new PlayerLoggedinHandler());
@@ -152,7 +143,7 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.USE_ITEM, new UseItemHandler());
             registerHandler(RecvOpcode.USE_RETURN_SCROLL, new UseItemHandler());
             registerHandler(RecvOpcode.USE_UPGRADE_SCROLL, new ScrollHandler());
-            registerHandler(RecvOpcode.USE_SUMMON_BAG, new UseSummonBagHandler());
+            registerHandler(RecvOpcode.USE_SUMMON_BAG, new UseSummonBag());
             registerHandler(RecvOpcode.FACE_EXPRESSION, new FaceExpressionHandler());
             registerHandler(RecvOpcode.HEAL_OVER_TIME, new HealOvertimeHandler());
             registerHandler(RecvOpcode.ITEM_PICKUP, new ItemPickupHandler());
@@ -170,7 +161,7 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.GIVE_FAME, new GiveFameHandler());
             registerHandler(RecvOpcode.PARTY_OPERATION, new PartyOperationHandler());
             registerHandler(RecvOpcode.DENY_PARTY_REQUEST, new DenyPartyRequestHandler());
-            registerHandler(RecvOpcode.MULTI_CHAT, new MultiChatHandler());
+            registerHandler(RecvOpcode.PARTYCHAT, new PartyChatHandler());
             registerHandler(RecvOpcode.USE_DOOR, new DoorHandler());
             registerHandler(RecvOpcode.ENTER_MTS, new EnterMTSHandler());
             registerHandler(RecvOpcode.ENTER_CASHSHOP, new EnterCashShopHandler());
@@ -187,7 +178,7 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.BBS_OPERATION, new BBSOperationHandler());
             registerHandler(RecvOpcode.SKILL_EFFECT, new SkillEffectHandler());
             registerHandler(RecvOpcode.MESSENGER, new MessengerHandler());
-            registerHandler(RecvOpcode.NPC_ACTION, new NPCAnimationHandler());
+            registerHandler(RecvOpcode.NPC_ACTION, new NPCAnimation());
             registerHandler(RecvOpcode.CHECK_CASH, new TouchingCashShopHandler());
             registerHandler(RecvOpcode.CASHSHOP_OPERATION, new CashOperationHandler());
             registerHandler(RecvOpcode.COUPON_CODE, new CouponCodeHandler());
@@ -210,8 +201,6 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.SPOUSE_CHAT, new SpouseChatHandler());
             registerHandler(RecvOpcode.PET_AUTO_POT, new PetAutoPotHandler());
             registerHandler(RecvOpcode.PET_EXCLUDE_ITEMS, new PetExcludeItemsHandler());
-            registerHandler(RecvOpcode.OWL_ACTION, new UseOwlOfMinervaHandler());
-            registerHandler(RecvOpcode.OWL_WARP, new OwlWarpHandler());
             registerHandler(RecvOpcode.TOUCH_MONSTER_ATTACK, new TouchMonsterDamageHandler());
             registerHandler(RecvOpcode.TROCK_ADD_MAP, new TrockAddMapHandler());
             registerHandler(RecvOpcode.HIRED_MERCHANT_REQUEST, new HiredMerchantRequest());
@@ -231,21 +220,17 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.ALLIANCE_OPERATION, new AllianceOperationHandler());
             registerHandler(RecvOpcode.USE_SOLOMON_ITEM, new UseSolomonHandler());
             registerHandler(RecvOpcode.USE_GACHA_EXP, new UseGachaExpHandler());
-            registerHandler(RecvOpcode.NEW_YEAR_CARD_REQUEST, new NewYearCardHandler());
-            registerHandler(RecvOpcode.CASHSHOP_SURPRISE, new CashShopSurpriseHandler());
             registerHandler(RecvOpcode.USE_ITEM_REWARD, new ItemRewardHandler());
             registerHandler(RecvOpcode.USE_REMOTE, new RemoteGachaponHandler());
             registerHandler(RecvOpcode.ACCEPT_FAMILY, new AcceptFamilyHandler());
             registerHandler(RecvOpcode.DUEY_ACTION, new DueyHandler());
             registerHandler(RecvOpcode.USE_DEATHITEM, new UseDeathItemHandler());
-            //registerHandler(RecvOpcode.PLAYER_UPDATE, new PlayerUpdateHandler()); unused
-            registerHandler(RecvOpcode.PLAYER_MAP_TRANSFER, new PlayerMapTransitionHandler());
             registerHandler(RecvOpcode.USE_MAPLELIFE, new UseMapleLifeHandler());
             registerHandler(RecvOpcode.USE_CATCH_ITEM, new UseCatchItemHandler());
             registerHandler(RecvOpcode.MOB_DAMAGE_MOB_FRIENDLY, new MobDamageMobFriendlyHandler());
             registerHandler(RecvOpcode.PARTY_SEARCH_REGISTER, new PartySearchRegisterHandler());
             registerHandler(RecvOpcode.PARTY_SEARCH_START, new PartySearchStartHandler());
-            registerHandler(RecvOpcode.ITEM_SORT2, new InventorySortHandler());
+            registerHandler(RecvOpcode.ITEM_SORT2, new ItemIdSortHandler());
             registerHandler(RecvOpcode.LEFT_KNOCKBACK, new LeftKnockbackHandler());
             registerHandler(RecvOpcode.SNOWBALL, new SnowballHandler());
             registerHandler(RecvOpcode.COCONUT, new CoconutHandler());
@@ -255,10 +240,6 @@ public final class PacketProcessor {
             registerHandler(RecvOpcode.MONSTER_CARNIVAL, new MonsterCarnivalHandler());
             registerHandler(RecvOpcode.REMOTE_STORE, new RemoteStoreHandler());
             registerHandler(RecvOpcode.WEDDING_ACTION, new WeddingHandler());
-            registerHandler(RecvOpcode.WEDDING_TALK, new WeddingTalkHandler());
-            registerHandler(RecvOpcode.WEDDING_TALK_MORE, new WeddingTalkMoreHandler());
-            registerHandler(RecvOpcode.WATER_OF_LIFE, new UseWaterOfLifeHandler());
-            registerHandler(RecvOpcode.ADMIN_CHAT, new AdminChatHandler());
             registerHandler(RecvOpcode.MOVE_DRAGON, new MoveDragonHandler());
         }
     }
